@@ -1,0 +1,2 @@
+tkinter (built-in)
+PIL (Pillow)
